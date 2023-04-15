@@ -1,0 +1,21 @@
+
+
+"VertexLitGeneric" {
+	$basetexture "models/rinyata/valeri/g3-boots1"
+	$color2 "[0.8 0.8 0.8]"
+	$bumpmap "models/rinyata/valeri/g3-boots1_n"
+
+	$nocull 1
+    $alphatest 1
+    $allowalphatocoverage 1
+	$phong "1"
+	$phongboost "7"
+	$phongexponent  "6"
+	$phongfresnelranges "[0.02 0.15 1.0]"
+	$trasculent "1"
+	$nocull "1"
+}
+
+
+
+

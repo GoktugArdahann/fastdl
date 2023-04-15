@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rinyata/valeri/beard"
+	"$translucent" 1
+}

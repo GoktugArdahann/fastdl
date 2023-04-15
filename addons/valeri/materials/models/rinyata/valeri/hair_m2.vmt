@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rinyata/valeri/hair_m2"
+	"$bumpmap" "models/rinyata/valeri/hair_m2_n"
+
+	"$translucent" 1
+	$halflambert 			1
+	$allowalphatocoverage	1
+
+	$nocull					1
+}

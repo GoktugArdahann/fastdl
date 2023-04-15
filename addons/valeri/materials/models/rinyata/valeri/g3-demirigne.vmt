@@ -1,0 +1,22 @@
+
+
+"VertexLitGeneric" {
+	$basetexture "models/rinyata/valeri/g3-scarf"
+	$bumpmap "models/rinyata/valeri/g3-scarf_n"
+
+	$nocull 1
+    $alphatest 1
+    $allowalphatocoverage 1
+	$phong "1"
+	$phongboost "7"
+	$phongexponent  "50"
+	$phongfresnelranges "[0.1 0.15 1.0]"
+	$trasculent "1"
+	$nocull "1"
+}
+
+
+
+
+
+

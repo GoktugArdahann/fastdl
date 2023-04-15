@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture				"models/rinyata/valeri/blazkowicz_acce_d"
+	$bumpmap					"models/rinyata/valeri/blazkowicz_acce_d_n"
+    $alphatest 1
+    $allowalphatocoverage 1
+	
+	$halflambert 			1
+	$phong					1
+	$phongexponent			15
+	$phongboost				1
+	$phongfresnelranges		"[0.05 0.5 1]"
+
+	$bumpmapalphaphongmask	1
+	
+}

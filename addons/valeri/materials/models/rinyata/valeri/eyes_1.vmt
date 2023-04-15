@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rinyata/valeri/eyes_1"
+
+	$halflambert 1
+
+
+	$RaytraceSphere 0 		
+	$SphereTexkillCombo 0
+}

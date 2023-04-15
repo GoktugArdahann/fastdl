@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/rinyata/valeri/face_1"
+
+    "$nodecal" 1
+    "$normalmapalphaenvmapmask" "1"
+    "$halflambert" "1"
+    "$phong" "1"
+    "$phongboost"    ".1"
+    "$phongexponent" "5"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[.1 1 1]"
+}

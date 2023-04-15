@@ -1,0 +1,21 @@
+
+
+"VertexLitGeneric" {
+	$basetexture "models/rinyata/valeri/g4-cloth2"
+	$bumpmap "models/rinyata/valeri/g4-cloth_n"
+
+	$nocull 1
+    $alphatest 1
+    $allowalphatocoverage 1
+	$phong "1"
+	$phongboost "5"
+	$phongexponent  "10"
+	$phongfresnelranges "[0.03 0.15 1.0]"
+	$trasculent "1"
+	$nocull "1"
+}
+
+
+
+
+

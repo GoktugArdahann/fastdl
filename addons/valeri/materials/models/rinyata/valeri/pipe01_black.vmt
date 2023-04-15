@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rinyata/valeri/Pipe01"
+	"$envmapmask" "models/rinyata/valeri/Pipe01_Specular"
+	"$normalmap" "models/rinyata/valeri/Pipe01_Normal"
+	"$surfaceprop" "Wood_Furniture"
+	"$nolod" 1
+}

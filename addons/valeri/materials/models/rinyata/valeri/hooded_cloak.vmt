@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture				"models/rinyata/valeri/hooded cloac_default_BaseColor"
+	$bumpmap					"models/rinyata/valeri/hooded cloac_default_Normal"
+	
+	$halflambert 				1
+
+    $phong						1
+    $phongboost   				0
+	$phongexponent				5
+    $phongfresnelranges    		"[0.2 0.05 0.3]"
+    $phongdisablehalflambert 	1
+	
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2	
+	
+	$bumpmapalphaphongmask		1
+	
+}

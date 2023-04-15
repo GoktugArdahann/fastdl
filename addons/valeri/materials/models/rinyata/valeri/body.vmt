@@ -1,0 +1,12 @@
+"VertexLitGeneric" {
+    $basetexture "models/rinyata/valeri/geralt_body_bm"
+    $bumpmap "models/rinyata/valeri/geralt_body_nm"
+
+    $phong "1"
+    $phongboost "16"
+    $phongexponent  "4"
+    $phongfresnelranges "[0.04 0.15 1.0]"
+    $phongtint "[1.0 0.95 0.95]"
+
+    $lightwarptexture "models/rinyata/valeri/skin_warp"
+}
